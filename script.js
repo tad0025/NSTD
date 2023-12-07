@@ -28,7 +28,7 @@ function caythong(h) {
 
 function animateTree() {
     setInterval(() => {
-        caythong(16);
+        caythong(15);
     }, 200);
 }
 
